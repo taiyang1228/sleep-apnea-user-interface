@@ -1,0 +1,9 @@
+# pip install -qr requirements.txt
+
+# base ----------------------------------------
+tensorflow-gpu>=2.7
+tkinter
+numpy>=1.21
+
+# plotting ------------------------------------
+matplotlib>=3.5.3
