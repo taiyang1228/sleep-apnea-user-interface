@@ -6,3 +6,6 @@ Equipment requirements show on requirements.txt. Cuda version is 11.2 and cudnn 
 This project text on laptop. 
 
 GPU:GTX1050 4GB.
+
+# Use step
+[!image](https://github.com/taiyang1228/sleep-apnea-user-interface/blob/main/image/GUI.png)
