@@ -14,6 +14,6 @@ GPU:GTX1050 4GB.
 
 2：Tap 2 on image to select SaO2 data.
 
-3：Tap 3 on image to detect SaO2 data whether have sleep apnea.
+3：Tap 3 on image to detect SaO2 data whether have sleep apnea. And it will show result in green box on image.
 
 4：Tap 4 on image to exit program and release GPU memory.
